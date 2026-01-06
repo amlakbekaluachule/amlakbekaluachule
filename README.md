@@ -10,6 +10,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/amlakbekaluachule" target="_blank">🔗 LinkedIn</a>
 </p>
+
 ## 🧠 Skills & Technologies
 
 <p align="center">
