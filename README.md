@@ -41,7 +41,7 @@
 
 <div align="center">
 
-### 🌟 <span style="background: linear-gradient(90deg, #ff6ec4, #7873f5); -webkit-background-clip: text; color: transparent;">intellicode__hub</span> 💻
+### 🌟 <span style="background: linear-gradient(90deg, #ff6ec4, #7873f5); -webkit-background-clip: text; color: transparent;">IntellicodeHub</span> 💻
 **AI-driven code automation & analysis platform**  
 **Stack:** <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /> <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" /> <img alt="REST API" src="https://img.shields.io/badge/RESTful_API-FF6F61?style=flat-square&logo=swagger&logoColor=white" /> <img alt="AWS S3" src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white" />  
 **Highlights:** 🚀 Real-time AI code suggestions ⚡ Modular backend APIs for scalability 🛠 Live code linting & evaluation  
