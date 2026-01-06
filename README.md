@@ -17,7 +17,7 @@
 
 ### 💡 intellicode__hub 
 **AI-driven coding platform for intelligent code analysis and automation.**  
-- **Stack:** Python, FastAPI, React, Next.js, MongoDB, Docker  
+- **Stack:**  React, Node.js, PostgreSQL, RESTful API, AWS S3  
 - **Highlights:**  
   - Code suggestions using AI models  
   - Modular backend APIs for scalable execution  
@@ -26,7 +26,7 @@
 
 ### 💡 ScholarBot
 **Personalized AI assistant for educational content analysis and recommendation.**  
-- **Stack:** Python, Flask, React, Next.js, OpenAI API, MongoDB  
+- **Stack:** React, Next.js, Flask, FastAPI, MongoDB  
 - **Highlights:**  
   - Automated document parsing  
   - AI-generated summaries & recommendations  
@@ -35,7 +35,7 @@
 
 ### 💡 MeetSync
 **Web-based meeting coordination platform for seamless team collaboration.**  
-- **Stack:** JavaScript, React, Node.js, Socket.io, MongoDB  
+- **Stack:** Next.js, Express, TypeScript, Tailwind, WebRTC, Socket.io  
 - **Highlights:**  
   - Real-time scheduling & notifications  
   - Collaborative calendar integration  
