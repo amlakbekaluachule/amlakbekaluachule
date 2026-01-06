@@ -39,10 +39,6 @@
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <em>💎 Each project is a mini-portfolio card with tech stack & live link 💎</em>
-</p>
-
 <div align="center">
 
 ### 🌟 <span style="background: linear-gradient(90deg, #ff6ec4, #7873f5); -webkit-background-clip: text; color: transparent;">intellicode__hub</span> 💻
@@ -66,9 +62,6 @@
 **Stack:** <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" /> <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" /> <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />  
 **Highlights:** 📄 Automatic document parsing 💡 AI-generated summaries & resources 📂 Drag & drop uploads  
 [🔗 GitHub Repo](https://github.com/amlakbekaluachule/scholarbot)
-
-</div>
-
 
 ### 🌟 <span style="background: linear-gradient(90deg, #ff512f, #dd2476); -webkit-background-clip: text; color: transparent;">SafePay</span> 💳
 **AI-powered fraud detection & dashboards**  
