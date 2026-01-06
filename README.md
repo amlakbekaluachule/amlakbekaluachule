@@ -86,15 +86,15 @@
 
 ## 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amlakbekaluachule&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-</p>
+## 🐍 **Contribution Activity**
 
-<p align="center">
-  <img src="https://github.com/amlakbekaluachule/amlakbekaluachule/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
-
-> The **snake-style contribution graph** shows my consistent coding activity and contributions across repositories.  
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>  
 
 ---
 
