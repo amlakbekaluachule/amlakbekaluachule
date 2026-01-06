@@ -15,7 +15,7 @@
 
 ## 🚀 Featured Projects
 
-### 💡 intellicode__hub
+### 💡 intellicode__hub 
 **AI-driven coding platform for intelligent code analysis and automation.**  
 - **Languages & Stack:** Python, FastAPI, React, Next.js, MongoDB, Docker  
 - **Highlights:**  
@@ -82,26 +82,6 @@
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 </p>
 
----
-
-## 📊 GitHub Stats & Activity
-
-## 🐍 **Contribution Activity**
-
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amlakbekaluachule&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-</p>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
----
 
 ## 💡 About Me
 
