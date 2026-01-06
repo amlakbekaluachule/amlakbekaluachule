@@ -72,19 +72,6 @@
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 </p>
 
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amlakbekaluachule/amlakbekaluachule/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amlakbekaluachule/amlakbekaluachule/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/amlakbekaluachule/amlakbekaluachule/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
----
-
 ## 💡 About Me
 
 - Passionate about **AI-driven solutions & scalable web platforms**  
