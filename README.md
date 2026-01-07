@@ -64,7 +64,7 @@ Automatic document parsing 💡 AI-generated summaries & resources 📂 Drag & d
 [🔗 GitHub Repo](https://github.com/amlakbekaluachule/scholarbot)
 
 ### <span style="background: linear-gradient(90deg, #ff512f, #dd2476); -webkit-background-clip: text; color: transparent;">SafePay</span> 💳
-**AI-powered fraud detection & dashboards**  
+**Real-Time Credit Card Fraud Detection**  
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" /> <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />  
 Interactive dashboards ⚡ Real-time fraud detection 🏗 Scalable & high-traffic ready  
 [🔗 GitHub Repo](https://github.com/amlakbekaluachule/SafePay)
