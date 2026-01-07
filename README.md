@@ -1,5 +1,5 @@
 <h1 align="center">
-  👋 Hi, I'm <span style="background: linear-gradient(90deg, #ff6ec4, #7873f5); -webkit-background-clip: text; color: transparent;">Amlakbekalu Achule</span>
+  <span style="background: linear-gradient(90deg, #ff6ec4, #7873f5); -webkit-background-clip: text; color: transparent;">Amlakbekalu Achule</span>
 </h1>
 
 <p align="center">
