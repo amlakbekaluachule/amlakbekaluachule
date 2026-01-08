@@ -32,6 +32,7 @@
 
 ## About Me
 
+- Sophomore at Columbia University
 - Passionate about **AI-driven solutions & scalable web platforms**  
 - Focused on **clean architecture, modular code, and real-world impact**  
 - Exploring **Reinforcement Learning, ML Ops, and system optimization** 
