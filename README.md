@@ -1,4 +1,4 @@
-<h1 align="center">
+<!-- <h1 align="center">
   <span style="background: linear-gradient(90deg, #ff6ec4, #7873f5); -webkit-background-clip: text; color: transparent;">Amlakbekalu Achule</span>
 </h1>
 
@@ -82,4 +82,4 @@ Interactive dashboards ⚡ Real-time fraud detection 🏗 Scalable & high-traffi
   <a href="https://www.linkedin.com/in/amlakbekaluachule">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
+</p> -->
